@@ -1,0 +1,7 @@
+{
+  "name": "Remix2£: Remix: AXA Assurance Maroc - Agent Officiel",
+  "description": "Plateforme premium d\u0027assurance AXA au Maroc. Simulateurs intelligents, devis en ligne 24h, assistant IA et protection sur mesure pour particuliers et professionnels.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
